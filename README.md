@@ -7,3 +7,4 @@ You may have heard that YouTube is ditching the downvote button. Some users have
 The Like Ratio extension will leverage the remaining information (likes and view count) to gauge a video's popularity.  
 
 
+![image](https://user-images.githubusercontent.com/16928672/141566508-269c4346-5f4b-4da0-b548-75f21f7f07a5.png)
