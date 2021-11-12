@@ -1,0 +1,15 @@
+{
+
+"manifest_version": 2,
+"name": "YouTube Like Ratio",
+"description": "The Like Ratio extension will leverage the remaining information (likes and view count) to gauge a video's popularity."
+,
+"version": "1.0",
+
+"content_scripts" : [{
+		"matches": ["https://www.youtube.com/watch*"],
+		"js": ["like-ratio.js"]
+	}
+]
+
+}
