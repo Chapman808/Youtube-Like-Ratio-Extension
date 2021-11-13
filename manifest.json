@@ -10,6 +10,15 @@
 		"matches": ["https://www.youtube.com/watch*"],
 		"js": ["like-ratio.js"]
 	}
-]
+],
+"background": {
+    "scripts": ["background.js"]
+  },
+
+  "permissions": [
+    "https://www.youtube.com/watch*", "tabs", "webNavigation"
+  ]
+
+
 
 }
