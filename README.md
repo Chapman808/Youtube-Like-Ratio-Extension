@@ -17,7 +17,7 @@ I am currently working on getting this extension into the Chrome web store. For 
 4. Select "Load Unpacked" on the top left. Locate the Source folder you downloaded (the entire repository) and select it.
 5. The extension is now enabled.
 
-## Screenshot
+## Screenshots
 
 ![image](https://user-images.githubusercontent.com/16928672/141597166-929b35e1-6378-49c5-a5be-a5b70d91b008.png)
 
