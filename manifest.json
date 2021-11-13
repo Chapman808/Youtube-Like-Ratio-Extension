@@ -1,8 +1,7 @@
 {
-
 "manifest_version": 2,
 "name": "YouTube Like Ratio",
-"description": "The Like Ratio extension will leverage the remaining information (likes and view count) to gauge a video's popularity."
+"description": "Dislikes are gone. L/R leverags the remaining information (likes and view count) to estimate a video's approval rating."
 ,
 "version": "1.0",
 
@@ -12,13 +11,18 @@
 	}
 ],
 "background": {
-    "scripts": ["background.js"]
-  },
+  "scripts": ["background.js"]
+},
 
-  "permissions": [
-    "https://www.youtube.com/watch*", "tabs", "webNavigation"
-  ]
+"permissions": [
+  "https://www.youtube.com/watch*", "tabs", "webNavigation"
+],
 
-
+"icons": {
+  "16" : "images/icon16.png",
+  "32" : "images/icon32.png",
+  "48" : "images/icon48.png",
+  "128" : "images/icon128.png"
+}
 
 }
